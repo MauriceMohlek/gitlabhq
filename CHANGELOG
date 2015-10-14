@@ -51,6 +51,10 @@ v 8.1.0 (unreleased)
   - Project names are not fully shown if group name is too big, even on group page view
   - Apply new design for Files page
   - Add "New Page" button to Wiki Pages tab (Stan Hu)
+  
+v 8.0.5
+  - Correct lookup-by-email for LDAP logins
+  - Fix loading spinner sometimes not being hidden on Merge Request tab switches
 
 v 8.0.4
   - Fix Message-ID header to be RFC 2111-compliant to prevent e-mails being dropped (Stan Hu)
